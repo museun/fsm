@@ -1,6 +1,5 @@
 ﻿# fsm
 
-## fsm
 a set of simple traits, and derive for enums that turns them into finite-state machines
 
 simply `#[derive(State)]` on your unit enums
